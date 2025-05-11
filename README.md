@@ -1,1 +1,10 @@
 # omnidirectional-wheel
+int main()
+{
+  1.txt文本毫无作用
+  2.基于标准库开发，用PID实现小车走轨迹的功能.
+  3.上面的代码仅包含Hardware(硬件配置），System(延迟函数，定时器配置），User(主程序）
+  4.MocotrA/C/D命名标准基于TB-4WD（电机驱动模块）的引脚命名
+  5.三个电机代码用于PID调参，全向轮小车则展示了车体轨迹（正方形，三角形，圆形）
+  return 0;
+{
